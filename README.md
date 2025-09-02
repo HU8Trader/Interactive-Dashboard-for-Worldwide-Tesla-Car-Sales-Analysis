@@ -1,8 +1,8 @@
-🚗 Tesla Worldwide Sales Dashboard – Power BI
+##🚗 Tesla Worldwide Sales Dashboard – Power BI
 
 This project is an end-to-end data analytics solution designed to analyze and visualize Tesla’s global car sales performance. Using Power BI, I developed a professional interactive dashboard to highlight model-wise trends, market share, and regional growth insights.
 
-📊 Key Features
+#📊 Key Features
 
 Model-wise sales performance across different years
 
@@ -12,7 +12,7 @@ Growth & trend analysis with clear, dynamic visuals
 
 Built using Power Query, DAX, and advanced data modeling
 
-🔧 Tools & Skills Used
+#🔧 Tools & Skills Used
 
 Power BI (visualizations, data modeling, DAX)
 
@@ -20,7 +20,7 @@ Excel & Data Cleaning
 
 Business Intelligence & Storytelling with Data
 
-📈 Insights
+#📈 Insights
 
 Tesla’s rapid sales growth in global markets
 
